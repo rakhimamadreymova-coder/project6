@@ -15,3 +15,5 @@ func ExampleMonthlyPayment() {
 	fmt.Println(product.MonthlyPayment(p))
 	// Output: 208250
 }
+
+//payment
